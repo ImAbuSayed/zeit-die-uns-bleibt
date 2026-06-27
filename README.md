@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeit-die-uns-bleibt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Zeit die uns bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-die-uns-bleibt/) |
+| **Get License** | [Secure Licensing Rights for Zeit die uns bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-die-uns-bleibt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `781e38de9bb148858b96d9dbb0184905399b52180a61b866ef4d0fe8b74877f7` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

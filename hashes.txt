@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zeit die uns bleibt
+
+This log tracks the cryptographic history and versioning for the song **Zeit die uns bleibt** (zeit-die-uns-bleibt).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:15:56.195666 | `v1` | `781e38de9bb148858b96d9dbb0184905399b52180a61b866ef4d0fe8b74877f7` | `0e63bbd5242126627f87e62244e95de126771cc0bb710f6f3e4fe805dc0ec86d` | `2026-06-27_zeit-die-uns-bleibt-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
