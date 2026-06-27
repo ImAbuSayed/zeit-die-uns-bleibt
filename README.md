@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zeit-die-uns-bleibt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Zeit die uns bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-die-uns-bleibt/) |
+| **Get License** | [Request Licensing for Zeit die uns bleibt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zeit-die-uns-bleibt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline leuchtet, der Motor pumpt Bass,
+> Dein Blick in mein'n Augen, wir geben jetzt Gas.
+> Wir flieh'n durch die Nacht, keine Zeit zu verlier'n,
+> Ich will diesen Rhythmus für immer jetzt spür'n.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
